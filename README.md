@@ -46,7 +46,7 @@ Una aplicación web moderna y responsiva para explorar un catálogo de videojueg
    npm run dev
    ```
 5. **Link del despliegue en GitHub Pages**
-   https://divpanda.github.io/Proyecto-Catalogo-de-Videojuegos/
+   https://cancridev.github.io/Proyecto-Catalogo-de-Videojuegos/
 
 ## 📂 Estructura del Proyecto
 
